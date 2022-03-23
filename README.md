@@ -2,7 +2,7 @@
 # Geordani Machado
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonado por resolver problemas utilizando a programação. <br/>
 programador Full Stack Pleno.
 
 
