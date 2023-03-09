@@ -2,7 +2,7 @@
 # Geordani Machado
 
 # 💫 About Me:
-Sou apaixonado por resolver problemas utilizando a programação.<br>programador Full Stack Pleno.
+FullStack developer Pleno | VueJS | C# | Mysql | .C# | ASP.NET | .NET Core | JavaScript | TypeScript | Node.js | SQL - NoSQL at @Ânima Educação | speaker at @TDC
 
 
 ## 🌐 Socials:
