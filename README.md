@@ -2,7 +2,7 @@
 # Geordani Machado
 
 # 💫 About Me:
-FullStack developer Pleno | VueJS | C# | Mysql | .C# | ASP.NET | .NET Core | JavaScript | TypeScript | Node.js | SQL - NoSQL | speaker at @TDC
+FullStack developer Sênior | VueJS | C# | Mysql | .C# | ASP.NET | .NET Core | JavaScript | TypeScript | Node.js | SQL - NoSQL | speaker at @TDC
 
 
 ## 🌐 Socials:
